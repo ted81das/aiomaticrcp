@@ -4,7 +4,4 @@
 \aiomatic-automatic-ai-content-writer\res\simplepie
 \aiomatic-automatic-ai-content-writer\res\tokenizer
 \aiomatic-automatic-ai-content-writer\res\readability
-\restrict-content-pro\core\*
-!\restrict-content-pro\core\includes\admin\member*
-!\restrict-content-pro\core\includes\member*
-\restrict-content-pro\languages
+\restrict-content-pro\*
